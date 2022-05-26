@@ -1,6 +1,17 @@
-import Rectangle from '../src/js/rectangle.js';
+import Template from '../src/js/BUSINESS.js'
 
-describe('Rectangle', () => {
+describe('Template', () => {
+
+  test('should do ___', () => {
+    const example = exam;
+    expect().toEqual();
+  });
+
+})
+
+
+
+/*describe('Rectangle', () => {
 
   let rectangle;
 
@@ -13,7 +24,4 @@ describe('Rectangle', () => {
     expect(rectangle.side2).toEqual(5);
   });
 
-  test('should correctly get the area of a rectangle object', () => {
-    expect(rectangle.getArea()).toEqual(15);
-  });
-});
+});*/

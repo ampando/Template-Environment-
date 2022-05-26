@@ -1,4 +1,4 @@
-export default class Template {
+/*export default class Template {
   constructor() {
     this.side1 = side1;
     this.side2 = side2;
@@ -16,4 +16,4 @@ export default class Template {
       return "isosceles triangle";
     }
   }    
-}
+}*/

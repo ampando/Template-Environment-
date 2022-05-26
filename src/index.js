@@ -1,8 +1,8 @@
-import $ from 'jquery';
+/*import $ from 'jquery';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/styles.css';
-import Template from './template.js'; //change name 
+import Template from './business.js'; //change name 
 
 $(document).ready(function() {
   $('#triangle-checker-form').submit(function(event) {
@@ -23,5 +23,5 @@ $(document).ready(function() {
     const response = rectangle.getArea();
     $('#response2').append(`<p> The area of the rectangle is ${response}.</p>`);
   });
-});
+});*/
 
