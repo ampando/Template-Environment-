@@ -1,3 +1,8 @@
 body {
   background-color: rgb(211, 106, 136);
 }
+
+img.resize {
+  width:540px; /* you can use % */
+  height: auto;
+}
